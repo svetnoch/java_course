@@ -1,7 +1,5 @@
 package kykyxa;
 
-import java.util.Scanner;
-
 public class Lord {
     public static void main(String[] args) {
 
